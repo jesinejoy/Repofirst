@@ -8,6 +8,7 @@ public class ThreeTest
 	public void testThree()
 	{    System.out.println("jesine updated");
 		System.out.println("we are in test three");
+		System.out.println("need to check Ammu is testing");
 	}
 
 }
